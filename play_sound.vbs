@@ -1,0 +1,1 @@
+Set s=CreateObject("WMPlayer.OCX"):s.URL="C:\Users\niyaz\Videos\youtube\car-obd\car-obd\cimenlere_girme.m4a":s.Controls.play:WScript.Sleep 4000
