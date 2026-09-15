@@ -1,0 +1,7 @@
+# OBD2 Haberleşmesi ve Serial Bağlantı
+obd==0.7.1
+pyserial==3.5
+
+# UI ve Veri İşleme (Kullandığın altyapıya göre güncelle)
+customtkinter==5.2.2
+pandas==2.2.0
