@@ -19,7 +19,7 @@ logger.py: Saha testlerinde nerede çuvalladığımızı görmek için telemetri
 ⚙️ Kurulum ve Çalıştırma
 Sistemin donanımla çarpıştığı bir laboratuvar projesi olduğunu unutmayın. Gerekli kütüphaneleri kurduktan sonra doğrudan ana betiği çalıştırın:
 
-Gereksinimleri yükleyin: pip install -r requirements.txt (Bu dosyayı repoya eklemeyi unutma!)
+Gereksinimleri yükleyin: pip install -r requirements.txt
 
 OBD2 USB kablonuzu bağlayın ve portu kontrol edin.
 
